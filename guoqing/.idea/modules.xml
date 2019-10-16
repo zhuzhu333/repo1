@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guoqing.iml" filepath="$PROJECT_DIR$/guoqing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_consumer/kgc_consumer.iml" filepath="$PROJECT_DIR$/kgc_consumer/kgc_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_dubbo.iml" filepath="$PROJECT_DIR$/kgc_dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_provider/kgc_provider.iml" filepath="$PROJECT_DIR$/kgc_provider/kgc_provider.iml" />
+    </modules>
+  </component>
+</project>

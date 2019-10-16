@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fcc068f-710e-4e48-83fd-adc10ba56fd5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="113" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RgWcxAYPHAVdNnO238Co2gc62y" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaworkspace\guoqing\kgc_provider\src\main\java\com\kgc\kgc_provider\wxConfig" />
+      <recent name="E:\ideaworkspace\guoqing\kgc_consumer\src\main\java\com\kgc\kgc_consumer\utils" />
+      <recent name="E:\ideaworkspace\guoqing\kgc_consumer\src\main\java\com\kgc\kgc_consumer\config\custom" />
+      <recent name="E:\ideaworkspace\guoqing\kgc_provider\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kgc.kgc_provider.wxConfig" />
+      <recent name="com.kgc.kgc_consumer.utils" />
+      <recent name="com.kgc.kgc_consumer.contants" />
+      <recent name="com.kgc.kgc_consumer.vo" />
+      <recent name="com.kgc.kgc_consumer.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaworkspace\guoqing\kgc_consumer\src\main\java\com\kgc\kgc_consumer\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KgcConsumerApplication">
+    <configuration name="CommonUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kgc_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.kgc_consumer.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgc.kgc_consumer.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.kgc.kgc_consumer.utils.CommonUtil" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KgcConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kgc_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.kgc_consumer.KgcConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KgcProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kgc_provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.kgc_provider.KgcProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CommonUtil" />
+      <item itemvalue="Spring Boot.KgcConsumerApplication" />
+      <item itemvalue="Spring Boot.KgcProviderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommonUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@381e4437" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fcc068f-710e-4e48-83fd-adc10ba56fd5" name="Default Changelist" comment="" />
+      <created>1570089302795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570089302795</updated>
+      <workItem from="1570089305998" duration="2465000" />
+      <workItem from="1570192616695" duration="11978000" />
+      <workItem from="1570260009192" duration="6770000" />
+      <workItem from="1570280453713" duration="2133000" />
+      <workItem from="1570410839985" duration="12487000" />
+      <workItem from="1570494383295" duration="16377000" />
+      <workItem from="1570584417569" duration="19050000" />
+      <workItem from="1570667369383" duration="9497000" />
+      <workItem from="1570676905895" duration="183000" />
+      <workItem from="1570677103056" duration="25083000" />
+      <workItem from="1570754366725" duration="26981000" />
+      <workItem from="1570840666991" duration="24138000" />
+      <workItem from="1570878044718" duration="1709000" />
+      <workItem from="1571013039957" duration="20791000" />
+      <workItem from="1571099308510" duration="5440000" />
+      <workItem from="1571117831196" duration="9935000" />
+      <workItem from="1571185769927" duration="7852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kgc_dubbo$KgcProviderApplication.ic" NAME="KgcProviderApplication Coverage Results" MODIFIED="1570593446316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
